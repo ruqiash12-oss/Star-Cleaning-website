@@ -41,17 +41,3 @@ Check out the live version of the project here: [StarCleaning Live Preview](http
 - Deployment: Vercel
 
 ---
-
-## 📂 Project Structure
-
-`text
-cleaning-services/
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable UI components (Navbar, Hero, Services, Team, CTA, Footer)
-│   ├── assets/          # Images and icons
-│   ├── App.jsx          # Main application component
-│   ├── main.jsx         # Entry point
-│   └── index.css        # Tailwind directives and custom styles
-├── package.json         # Project dependencies
-└── README.md            # Project documentation
