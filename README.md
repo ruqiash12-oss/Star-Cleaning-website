@@ -12,7 +12,7 @@ A modern, responsive, and fully-featured front-end web application built for a p
 
 ## 🌐 Live Demo
 
-Check out the live version of the project here: [StarCleaning Live Preview](https://your-vercel-link.vercel.app)
+Check out the live version of the project here: [StarCleaning Live Preview](https://star-cleaning-website.vercel.app/)
 
 ---
 
